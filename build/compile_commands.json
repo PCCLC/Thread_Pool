@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pc/桌面/ThreadPool/build/src",
+  "command": "/usr/bin/g++  -I/home/pc/桌面/ThreadPool/include -g -std=c++17 -o CMakeFiles/ThreadPool.dir/main.cc.o -c /home/pc/桌面/ThreadPool/src/main.cc",
+  "file": "/home/pc/桌面/ThreadPool/src/main.cc"
+},
+{
+  "directory": "/home/pc/桌面/ThreadPool/build/src",
+  "command": "/usr/bin/g++ -Dthreadpool_EXPORTS -I/home/pc/桌面/ThreadPool/include -g -fPIC -std=c++17 -o CMakeFiles/threadpool.dir/main.cc.o -c /home/pc/桌面/ThreadPool/src/main.cc",
+  "file": "/home/pc/桌面/ThreadPool/src/main.cc"
+}
+]
